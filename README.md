@@ -122,7 +122,7 @@ Release builds of Cloud are available through the Maven central repository.
 <dependency>  
  <groupId>cloud.commandframework</groupId>
  <artifactId>cloud-PLATFORM</artifactId>
- <version>1.0.0</version>
+ <version>1.1.0-SNAPSHOT</version>
 </dependency>
 <!-- 
 ~    Optional: Allows you to use annotated methods
@@ -131,7 +131,7 @@ Release builds of Cloud are available through the Maven central repository.
 <dependency>  
  <groupId>cloud.commandframework</groupId>
  <artifactId>cloud-annotations</artifactId>
- <version>1.0.0</version>
+ <version>1.1.0-SNAPSHOT</version>
 </dependency>
 ``` 
 
@@ -183,7 +183,7 @@ repositories {
 
 ```groovy
 dependencies {
-    implementation 'cloud.commandframework:cloud-PLATFORM:1.0.0'
+    implementation 'cloud.commandframework:cloud-PLATFORM:1.1.0-SNAPSHOT'
 }
 ```
 
